@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TerryDeCoste/OperationInvoice/issues"
   },
-  "homepage": "https://github.com/TerryDeCoste/OperationInvoice#readme"
+  "homepage": "https://github.com/TerryDeCoste/OperationInvoice#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
